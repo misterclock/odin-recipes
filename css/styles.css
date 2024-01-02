@@ -2,7 +2,8 @@
     color:purple;
     background-color: FDFD96;
 }
-.listBrigadeiro{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color:black;
-}
+
+.Ingredients{
+    border: 3px dotted purple;
+    border-spacing: 1cap;
+    }
