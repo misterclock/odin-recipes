@@ -1,9 +1,21 @@
 *{
     color:purple;
     background-color: FDFD96;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
 }
 
 .Ingredients{
     border: 3px dotted purple;
-    border-spacing: 1cap;
     }
+
+.Ingredients,
+.Ingredients *{
+    background-color: #f1ecc6;
+}
+
+.Ingredients li{
+    list-style-type: square;
+    list-style-position: inside;
+    text-align: justify;
+}
