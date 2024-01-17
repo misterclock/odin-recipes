@@ -7,15 +7,25 @@
 
 .Ingredients{
     border: 3px dotted purple;
+    margin: auto;
+    width: fit-content;
     }
+
+.Ingredients.Coxinha{
+    display:flex;
+
+    
+}
 
 .Ingredients,
 .Ingredients *{
     background-color: #f1ecc6;
 }
 
-.Ingredients li{
-    list-style-type: square;
-    list-style-position: inside;
-    text-align: justify;
+ul,
+ol,
+li{
+    list-style-type: circle;
+    text-align: start;
+    text
 }
