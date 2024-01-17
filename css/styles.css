@@ -12,9 +12,12 @@
     }
 
 .Ingredients.Coxinha{
-    display:flex;
 
     
+}
+
+.theflex{
+    display:flex;
 }
 
 .Ingredients,
